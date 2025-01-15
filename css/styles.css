@@ -152,7 +152,17 @@ button{
 }
 /* #endregion */
 /* #region Second */
-.visually-hidden {
+.second-section {
+  padding: 120px 0;
+}
+.second-section-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.second-section-name .visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -163,16 +173,6 @@ button{
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-}
-.second-section {
-  padding: 120px 0;
-}
-.second-section-name {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
 }
 .second-page-descr {
   display: flex;
