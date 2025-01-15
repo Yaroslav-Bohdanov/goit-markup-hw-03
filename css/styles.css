@@ -204,6 +204,7 @@ button{
   text-transform: capitalize;
   color: #2e2f42;
   margin-bottom: 72px;
+  margin-bottom: 8px
 }
 .page-team {
   display: flex;
