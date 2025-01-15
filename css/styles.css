@@ -97,8 +97,6 @@ button{
 .adres-page {
   display: flex;
   gap: 40px;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 .adres .adres-link {
   font-family: "Roboto", sans-serif;
@@ -154,6 +152,9 @@ button{
 }
 /* #endregion */
 /* #region Second */
+.visually-hidden{
+
+}
 .second-section {
   padding: 120px 0;
 }
@@ -218,10 +219,10 @@ button{
   border-radius: 0px 0px 4px 4px;
 }
 .container-team{
-margin-top: 32px;
-margin-bottom: 32px;
-margin-left: 16px;
-margin-right: 16px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 .team-name {
   font-weight: 500;
