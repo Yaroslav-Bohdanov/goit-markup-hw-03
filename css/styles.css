@@ -40,6 +40,7 @@ button{
 /* #endregion */
 /* #region Header */
 .page-header {
+  border-bottom: 1px solid #e7e9fc
 }
 .page-header .container{
   display: flex;
@@ -50,7 +51,6 @@ button{
 .top-line {
   display: flex;
   align-items: center;
-  border-bottom: 1px solid #e7e9fc
 }
 .web {
   font-family: "Raleway", sans-serif;
@@ -97,6 +97,8 @@ button{
 .adres-page {
   display: flex;
   gap: 40px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .adres .adres-link {
   font-family: "Roboto", sans-serif;
