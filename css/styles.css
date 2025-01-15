@@ -152,7 +152,7 @@ button{
 }
 /* #endregion */
 /* #region Second */
-.visually-hidden{
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -213,7 +213,6 @@ button{
   text-transform: capitalize;
   color: #2e2f42;
   margin-bottom: 72px;
-  margin-bottom: 8px;
 }
 .page-team {
   display: flex;
@@ -254,6 +253,7 @@ button{
 .our-portfolio {
   padding-top: 120px;
   padding-bottom: 120px;
+  border: 1px solid #e7e9fc;
 }
 .section-portfolio {
   font-family: "Roboto", sans-serif;
