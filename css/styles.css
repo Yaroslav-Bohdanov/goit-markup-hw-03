@@ -50,6 +50,7 @@ button{
 .top-line {
   display: flex;
   align-items: center;
+  border-bottom: 1px solid #e7e9fc
 }
 .web {
   font-family: "Raleway", sans-serif;
@@ -73,8 +74,8 @@ button{
 .nav {
   display: flex;
   gap:40px;
-  margin-top: 24px;
-  margin-bottom: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .nav-link {
 }
