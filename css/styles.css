@@ -74,10 +74,9 @@ button{
 .nav {
   display: flex;
   gap:40px;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 .nav-link {
+  padding: 24px 0;
 }
 .nav .nav-link {
   font-family: "Roboto", sans-serif;
