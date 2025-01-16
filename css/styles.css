@@ -268,11 +268,10 @@ button{
   row-gap: 48px;
 }
 .container-partfolio{
-margin-top: 32px;
-margin-bottom: 32px;
-margin-left: 16px;
-margin-right: auto;
-border: 1px solid #e7e9fc;
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  margin-bottom: 8px;
 }
 .page-portfolio-item {
   width: calc((100% - 48px) / 3)
