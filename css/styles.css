@@ -161,7 +161,7 @@ button{
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.visually-hidden {
+.second-section-name .visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -229,8 +229,6 @@ button{
 .container-team{
   padding-top: 32px;
   padding-bottom: 32px;
-  padding-left: 16px;
-  padding-right: 16px;
 }
 .team-name {
   font-weight: 500;
