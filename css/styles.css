@@ -162,7 +162,7 @@ button{
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.second-section-name .visually-hidden {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
